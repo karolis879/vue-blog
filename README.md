@@ -1,4 +1,4 @@
-# dojo-blog
+# vue-blog
 
 ## Project setup
 ```
